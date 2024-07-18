@@ -1,3 +1,8 @@
+This was all taken from https://github.com/Rob--W/cors-anywhere.
+
+I'm just using this on one of my projects so my buddy can test our code without having to fiddle with the CORS stuff
+
+
 [![Build Status](https://travis-ci.com/Rob--W/cors-anywhere.svg?branch=master)](https://travis-ci.com/Rob--W/cors-anywhere)
 [![Coverage Status](https://coveralls.io/repos/github/Rob--W/cors-anywhere/badge.svg?branch=master)](https://coveralls.io/github/Rob--W/cors-anywhere?branch=master)
 
